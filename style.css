@@ -1,0 +1,18 @@
+h1 {
+  color: #4f3a41;
+  text-align: center;
+  text-shadow: 2;
+}
+p{
+  color: #1c97af;
+}
+div{
+  font: Arial,sans-serif;
+  font-size: 28px;
+  font-style: italic;
+  margin: 40px;
+  background: green;
+  width: 100px;
+  height: 400px;
+  padding: 20px;
+}
