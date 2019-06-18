@@ -10,9 +10,13 @@ div{
   font: Arial,sans-serif;
   font-size: 28px;
   font-style: italic;
+  font-weight: bold;
   margin: 40px;
   background: green;
   width: 100px;
   height: 400px;
   padding: 20px;
+}
+div1{
+  border: 3px solid blue;
 }
