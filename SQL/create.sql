@@ -1,0 +1,6 @@
+CREATE TABLE flight(
+  id SERIAL PRIMARY KEY,
+  Origin VARCHAR NOT NULL,
+  destination VARCHAR NOT NULL,
+  duration INTEGER NOT NULL
+);
